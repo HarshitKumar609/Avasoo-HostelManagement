@@ -6,7 +6,7 @@ import {
   FaBell,
 } from "react-icons/fa";
 import { MdMeetingRoom, MdPayments, MdReportProblem } from "react-icons/md";
-import hostelImg from "../assets/hostelimg.png";
+import hostelImg from "../assets/Hostelimg.png";
 import { Link } from "react-router-dom";
 import AuthResolverContext from "../Context/AuthResolverContext";
 
